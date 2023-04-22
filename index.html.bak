@@ -9,8 +9,9 @@
 </head>
 
 <body>
-<div class="container">
+<div class="container my-5">
 <div class="row">
+<div class="content">
   <h1><strong>Latent Painter</strong></h1>
   <p id="authors">
     <!--
@@ -26,6 +27,7 @@
 	  <p style="text-align: center;">How
 	  </p>
     </font>
+</div>
 </div>
 <!--
 <div class="content">

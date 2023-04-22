@@ -7,7 +7,7 @@ body {
   background-color: #fff;
 }
 .content {
-  width: 95%;
+  /*width: 1000px;*/
   padding: 25px 50px;
   margin: 25px auto;
   background-color: white;
