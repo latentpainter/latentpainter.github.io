@@ -40,10 +40,10 @@
   <h2 style="text-align:center;">Background</h2>
   <p>Background text</p>
   <div class="col-12 col-md-6">
-    <img class="img-fluid" src="/output/img2img 100slices slerp.gif">
+    <img class="img-fluid" src="/output/img2img 100slices slerp 256x.gif">
   </div>
   <div class="col-12 col-md-6">
-    <img class="img-fluid" src="/output/astronaut diffuse 2fps 20s.gif">
+    <img class="img-fluid" src="/output/astronaut diffuse 2fps 20s 256x.gif">
   </div>
 </div>
 </div>
