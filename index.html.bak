@@ -24,6 +24,50 @@
   <span class="col-12 col-md-6 col-lg-4">1</span>
   <span class="col-12 col-md-6 col-lg-4">2</span>
   <span class="col-12 col-md-6 col-lg-4">3</span>
+  
+  <div class="carousel results-carousel">
+	<div class="item">
+      <div class="col-6 col-md-4 col-lg-3 text-center">
+        <img class="img-fluid" src="/output/astronaut diffuse 2fps 20s 256x.gif">
+	  </div>
+	</div>
+	<div class="item">
+      <div class="col-6 col-md-4 col-lg-3 text-center">
+        <img class="img-fluid" src="/output/astronaut diffuse 2fps 20s 256x.gif">
+	  </div>
+	</div>
+	<div class="item">
+      <div class="col-6 col-md-4 col-lg-3 text-center">
+        <img class="img-fluid" src="/output/astronaut diffuse 2fps 20s 256x.gif">
+	  </div>
+	</div>
+	<div class="item">
+      <div class="col-6 col-md-4 col-lg-3 text-center">
+        <img class="img-fluid" src="/output/astronaut diffuse 2fps 20s 256x.gif">
+	  </div>
+	</div>
+	<div class="item">
+      <div class="col-6 col-md-4 col-lg-3 text-center">
+        <img class="img-fluid" src="/output/astronaut diffuse 2fps 20s 256x.gif">
+	  </div>
+	</div>
+	<div class="item">
+      <div class="col-6 col-md-4 col-lg-3 text-center">
+        <img class="img-fluid" src="/output/astronaut diffuse 2fps 20s 256x.gif">
+	  </div>
+	</div>
+	<div class="item">
+      <div class="col-6 col-md-4 col-lg-3 text-center">
+        <img class="img-fluid" src="/output/astronaut diffuse 2fps 20s 256x.gif">
+	  </div>
+	</div>
+	<div class="item">
+      <div class="col-6 col-md-4 col-lg-3 text-center">
+        <img class="img-fluid" src="/output/astronaut diffuse 2fps 20s 256x.gif">
+	  </div>
+	</div>
+  </div>
+  
   <img src="./teaser.jpg" class="teaser-gif" style="width:100%;"><br>
   <h3 style="text-align:center"><em>Turning diffuser prediction into painting actions</em></h3>
     <font size="+2">
@@ -37,9 +81,6 @@
   <h2 style="text-align:center;">Abstract</h2>
   <p>
     The latent diffuser models gain a lot of traction in generative AI for their efficiency, content diversity, and reasonable footprint.
-	
-	Tha latent painter
-	
   </p>
 </div>
 </div>
