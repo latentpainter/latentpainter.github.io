@@ -194,6 +194,7 @@
 			</div>
 		</div>		
 	</div>
+	<script src="./assets/js/multi-slides.js" type="text/javascript"></script>
 
 <!--
 <div class="content">
@@ -209,6 +210,8 @@
 </div>
 -->
 
+</body>
+<!--
 <script>
 let items = document.querySelectorAll('.carousel .carousel-item')
 
@@ -253,5 +256,5 @@ $(document).ready(function() {
 })
 */
 </script>
-</body>
+-->
 </html>
