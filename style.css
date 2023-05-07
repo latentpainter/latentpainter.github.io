@@ -152,6 +152,34 @@ p code {
 }
 
 
+.results-carousel {
+  overflow: hidden;
+}
+
+.results-carousel .item {
+  /*
+  margin: 5px;
+  overflow: hidden;
+  border: 1px solid #bbb;
+  border-radius: 10px;
+  padding: 0;
+  font-size: 0;
+  */
+  margin-right: 2px;
+  margin-left: 2px;
+  margin-top: 2px;
+  margin-bottom: 50px;
+  overflow: hidden;
+  border: 1px solid #bbb;
+  border-radius: 10px;
+  padding: 0;
+  font-size: 12;
+}
+
+.results-carousel video {
+  margin: 0;
+}
+
 @media (max-width: 575px) {
   .carousel-inner .carousel-item > div {display: none;}
   .carousel-inner .carousel-item > div:first-child {display: block;}
