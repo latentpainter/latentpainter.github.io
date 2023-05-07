@@ -113,6 +113,7 @@
   </div>
 </div>
 
+<!--
 <div class="container text-center my-3">
 		<div class="row mx-auto my-auto justify-content-center">
 			<div id="recipeCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="false">
@@ -187,6 +188,8 @@
 			</div>
 		</div>		
 	</div>
+-->
+
 <!--
 <div class="content">
   <h2>Approach</h2>
@@ -202,6 +205,7 @@
 -->
 
 <script>
+/*
 let items = document.querySelectorAll('.carousel .carousel-item')
 
 items.forEach((el) => {
@@ -217,7 +221,7 @@ items.forEach((el) => {
         next = next.nextElementSibling
     }
 })
-
+*/
 $(document).ready(function() {
 
     var options = {
