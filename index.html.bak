@@ -76,7 +76,7 @@
 
 <div class="container text-center my-3">
 		<div class="row mx-auto my-auto justify-content-center">
-			<div id="recipeCarousel" class="carousel slide">
+			<div id="recipeCarousel" class="carousel slide" data-bs-ride="carousel">
 				<div class="carousel-inner" role="listbox">
 					<div class="carousel-item active">
 						<div class="col-sm-6 col-md-4 col-xl-3">
