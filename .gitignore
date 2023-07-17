@@ -1,0 +1,7 @@
+*.pyc
+/node_modules/
+/dist/
+/bower_components/
+/.idea/
+*.bak
+/build/
